@@ -1,0 +1,80 @@
+{
+  "contenedores": [ {
+    "tipo": "grande",
+      "envase": [ {
+        "tipo": "grande ancho",
+        "liquidos": [
+          {"nombre":"Agua","uso":"alimento"},
+          {"nombre":"Leche","uso":"alimento"},
+          {"nombre":"Aceite","uso":"alimento"},
+          {"nombre":"Jabon","uso":""},
+          {"nombre":"Vinagre","uso":"alimento"} ]
+      } ],
+      "envase": [ {
+        "tipo": "grande alto",
+        "liquidos": [
+          {"nombre":"Agua","uso":"alimento"},
+          {"nombre":"Leche","uso":"alimento"},
+          {"nombre":"Aceite","uso":"alimento"},
+          {"nombre":"Jabon","uso":""},
+          {"nombre":"Vinagre","uso":"alimento"} ]
+      } ],
+      "tipo": "mediano",
+      "envase": [ {
+        "tipo": "mediano ancho",
+        "liquidos": [
+          {"nombre":"Agua","uso":"alimento"},
+          {"nombre":"Leche","uso":"alimento"},
+          {"nombre":"Aceite","uso":"alimento"},
+          {"nombre":"Jabon","uso":""},
+          {"nombre":"Vinagre","uso":"alimento"} ]
+      } ],
+      "envase": [ {
+        "tipo": "mediano ancho",
+        "liquidos": [
+          {"nombre":"Lejia","uso":"corrosivos"},
+          {"nombre":"Amoniaco","uso":"corrosivos"},
+          {"nombre":"Aguarras","uso":"corrosivos"},
+          {"nombre":"Gasolina","uso":"corrosivos"},
+          {"nombre":"Alcohol","uso":"corrosivos"} ]
+      } ],
+
+      },
+      "envase": {
+        "tamaño": "pequeño",
+        "tipo": "",
+        "uso": "corrosivos",
+        "liquidos": [
+          {"nombre":"Lejia","uso":"corrosivos"},
+          {"nombre":"Amoniaco","uso":"corrosivos"},
+          {"nombre":"Aguarras","uso":"corrosivos"},
+          {"nombre":"Gasolina","uso":"corrosivos"},
+          {"nombre":"Alcohol","uso":"corrosivos"} ]
+      }
+    },
+    "verticales": {
+      "envase": {
+        "tamaño": "grande",
+        "tipo": "alto",
+        "uso": "alimentos",
+        "liquidos": [
+          {"nombre":"Agua","uso":"alimento"},
+          {"nombre":"Leche","uso":"alimento"},
+          {"nombre":"Aceite","uso":"alimento"},
+          {"nombre":"Jabon","uso":""},
+          {"nombre":"Vinagre","uso":"alimento"} ]
+      },
+      "envase": {
+        "tamaño": "mediano",
+        "tipo": "alto",
+        "uso": "corrosivos",
+        "liquidos": [
+          {"nombre":"Lejia","uso":"corrosivos"},
+          {"nombre":"Amoniaco","uso":"corrosivos"},
+          {"nombre":"Aguarras","uso":"corrosivos"},
+          {"nombre":"Gasolina","uso":"corrosivos"},
+          {"nombre":"Alcohol","uso":"corrosivos"} ]
+      }
+    }
+  } ]
+}

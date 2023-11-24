@@ -1,0 +1,16 @@
+[ {
+  "nombre" : "Carolina",
+  "deporte" : "badminton",
+  "edad" : 30,
+  "pais" : "España"
+}, {
+  "nombre" : "Katie",
+  "deporte" : "natacion",
+  "edad" : 26,
+  "pais" : "EEUU"
+}, {
+  "nombre" : "Queralt",
+  "deporte" : "snowboar",
+  "edad" : 34,
+  "pais" : "España"
+} ]

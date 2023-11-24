@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contenedores>
+    <contenedor tipo="grande">
+        <!--acepta envases grandes-->
+        <envase class="grande, ancho, alimentos">
+            <Agua class="alimentos"></Agua>
+            <Leche class="alimentos"></Leche>
+            <Aceite class="alimentos"></Aceite>
+            <Jabon class=""></Jabon>
+            <Vinagre class="alimentos"></Vinagre>
+        </envase>
+        <envase class="grande, alto, alimentos">
+            <Agua class="alimentos"></Agua>
+            <Leche class="alimentos"></Leche>
+            <Aceite class="alimentos"></Aceite>
+            <Jabon class=""></Jabon>
+            <Vinagre class="alimentos"></Vinagre>
+        </envase>
+    </contenedor>
+    <contenedor tipo="mediano">
+        <!--no acepta envases grandes-->
+        <envase class="mediano, ancho, alimentos">
+            <Agua class="alimentos"></Agua>
+            <Leche class="alimentos"></Leche>
+            <Aceite class="alimentos"></Aceite>
+            <Jabon class=""></Jabon>
+            <Vinagre class="alimentos"></Vinagre>
+        </envase>
+        <envase class="mediano, alto, corrosivos">
+            <Lejia class="corrosivos"></Lejia>
+            <Amoniaco class="corrosivos"></Amoniaco>
+            <Aguarras class="corrosivos"></Aguarras>
+            <Gasolina class="corrosivos"></Gasolina>
+            <Alcohol class="corrosivos"></Alcohol>
+        </envase>
+        <envase class="pequeño, corrosivos">
+            <Lejia class="corrosivos"></Lejia>
+            <Amoniaco class="corrosivos"></Amoniaco>
+            <Aguarras class="corrosivos"></Aguarras>
+            <Gasolina class="corrosivos"></Gasolina>
+            <Alcohol class="corrosivos"></Alcohol>
+        </envase>
+    </contenedor>
+    <contenedor tipo="vertical">
+        <!--acepta envases altos-->
+        <envase class="grande, alto, alimentos">
+            <Agua class="alimentos"></Agua>
+            <Leche class="alimentos"></Leche>
+            <Aceite class="alimentos"></Aceite>
+            <Jabon class=""></Jabon>
+            <Vinagre class="alimentos"></Vinagre>
+        </envase>
+        <envase class="mediano, alto, corrosivos">
+            <Lejia class="corrosivos"></Lejia>
+            <Amoniaco class="corrosivos"></Amoniaco>
+            <Aguarras class="corrosivos"></Aguarras>
+            <Gasolina class="corrosivos"></Gasolina>
+            <Alcohol class="corrosivos"></Alcohol>
+        </envase>
+    </contenedor>
+</contenedores>
