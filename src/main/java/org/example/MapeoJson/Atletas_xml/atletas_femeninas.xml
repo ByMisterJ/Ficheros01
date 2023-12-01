@@ -1,0 +1,52 @@
+<Lista>
+  <atletas>
+    <atleta>
+      <nombre>Carolina</nombre>
+      <pruebas>
+        <prueba>100 metros lisos</prueba>
+        <prueba>lanzamiento javalina</prueba>
+        <prueba>natacion</prueba>
+        <prueba>pertiga</prueba>
+        <prueba>baloncesto</prueba>
+      </pruebas>
+      <edad>24</edad>
+      <pais>España</pais>
+    </atleta>
+    <atleta>
+      <nombre>Maria</nombre>
+      <pruebas>
+        <prueba>100 metros lisos</prueba>
+        <prueba>lanzamiento javalina</prueba>
+        <prueba>natacion</prueba>
+        <prueba>pertiga</prueba>
+        <prueba>baloncesto</prueba>
+      </pruebas>
+      <edad>26</edad>
+      <pais>Portugal</pais>
+    </atleta>
+    <atleta>
+      <nombre>Jana</nombre>
+      <pruebas>
+        <prueba>100 metros lisos</prueba>
+        <prueba>lanzamiento javalina</prueba>
+        <prueba>natacion</prueba>
+        <prueba>pertiga</prueba>
+        <prueba>baloncesto</prueba>
+      </pruebas>
+      <edad>25</edad>
+      <pais>EEUU</pais>
+    </atleta>
+    <atleta>
+      <nombre>Natasha</nombre>
+      <pruebas>
+        <prueba>100 metros lisos</prueba>
+        <prueba>lanzamiento javalina</prueba>
+        <prueba>natacion</prueba>
+        <prueba>pertiga</prueba>
+        <prueba>baloncesto</prueba>
+      </pruebas>
+      <edad>29</edad>
+      <pais>Ucrania</pais>
+    </atleta>
+  </atletas>
+</Lista>
