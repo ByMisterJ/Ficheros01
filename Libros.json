@@ -1,0 +1,21 @@
+[ {
+  "isbn" : 1,
+  "titulo" : "Metro2033",
+  "autor" : "Vladimir",
+  "anyo_publicacion" : 2004
+}, {
+  "isbn" : 2,
+  "titulo" : "Codice",
+  "autor" : "Leonardo",
+  "anyo_publicacion" : 1646
+}, {
+  "isbn" : 3,
+  "titulo" : "Openheimer",
+  "autor" : "Robert",
+  "anyo_publicacion" : 1950
+}, {
+  "isbn" : 4,
+  "titulo" : "paco",
+  "autor" : "si",
+  "anyo_publicacion" : 2022
+} ]

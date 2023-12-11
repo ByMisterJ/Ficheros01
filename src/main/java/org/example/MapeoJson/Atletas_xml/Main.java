@@ -26,7 +26,7 @@ public class Main {
         atletas.add(a3);
         atletas.add(a4);
 
-        Path ruta = Path.of("/home/daw2/Documents/Server/Ficheros/src/main/java/org/example/MapeoJson/Atletas_xml/atletas_femeninas.xml");
+        Path ruta = Path.of("src/main/java/org/example/MapeoJson/Atletas_xml/atletas_femeninas.xml");
         try {
             Files.deleteIfExists(ruta);
             XmlMapper mapper = new XmlMapper();
